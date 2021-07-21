@@ -1,10 +1,10 @@
 ### Oh yeah, I found the secret 🥳
 
-I'm Stanislav from Slovakia 👋
-Working remotely as a 📈SEO specialist 
-Learning 👨‍💻webdev on the side
-Thinking of an 💻online business 
-So I can 🌍🌎🌏travel and enjoy life.
+- I'm Stanislav from Slovakia 👋
+- Working remotely as a 📈SEO specialist 
+- Learning 👨‍💻webdev on the side
+- Thinking of an 💻online business 
+- So I can 🌍🌎🌏travel and enjoy life.
 
 <!--
 **StaniKub/StaniKub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
